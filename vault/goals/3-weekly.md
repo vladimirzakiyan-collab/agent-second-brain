@@ -1,7 +1,7 @@
 ---
 type: weekly
-week: YYYY-WWW
-updated: YYYY-MM-DD
+week: 2026-W06
+updated: 2026-02-05
 ---
 
 # Weekly Focus
@@ -9,17 +9,15 @@ updated: YYYY-MM-DD
 ## ONE Big Thing
 
 > **If I accomplish nothing else, I will:**
-> [Single most important outcome for this week]
-
-<!-- This is read by the bot during daily processing -->
+> Закрыть отставание по урокам — все 6 уроков законспектированы и переведены в Anki. Отставание = 0.
 
 ---
 
 ## Week at a Glance
 
-**Week:** [X] of 52
-**Energy Level:** [High/Medium/Low]
-**Available Hours:** [X] hours focused work
+**Week:** 6 of 52
+**Energy Level:** Medium
+**Available Hours:** ~40 часов учёбы (без зала, фокус на нагоне)
 
 ---
 
@@ -27,53 +25,58 @@ updated: YYYY-MM-DD
 
 ### Must Do (Non-negotiable)
 
-- [ ] Task 1 — Связь: [[1-yearly-2025#Goal]]
-- [ ] Task 2
-- [ ] Task 3
+- [ ] Закрыть 6 уроков отставания (полный цикл) — Связь: [[1-yearly-2026#Goal 1: Устроиться в частную клинику]]
+- [ ] Anki-повторение каждый день — Связь: [[1-yearly-2026#Goal 1: Выработать самодисциплину]]
+- [ ] Посты каждый день — Связь: [[1-yearly-2026#Goal 4: Развитие блога]]
 
 ### Should Do (Important)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Начать перевод старых уроков в Anki (если останется время)
+- [ ] Текстовые материалы 1 ч/день
 
 ### Could Do (If time permits)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Вернуть зал (после закрытия отставания)
 
 ---
 
 ## Daily Plan
 
-### Monday
+### Среда, 5 февраля
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Посты (2 ч)
+- [ ] Урок 1 — полный цикл
+- [ ] Урок 2 — полный цикл
+- [ ] Anki-повторение
 
-### Tuesday
+### Четверг, 6 февраля (выходит новый урок)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Отжимания + душ
+- [ ] Посты (2 ч)
+- [ ] Урок 3 — полный цикл
+- [ ] Новый урок (6 фев) — полный цикл
+- [ ] Anki-повторение
 
-### Wednesday
+### Пятница, 7 февраля
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Посты (2 ч)
+- [ ] Урок 5 — полный цикл
+- [ ] Anki-повторение
+- [ ] Текстовые материалы (1 ч)
 
-### Thursday
+### Суббота, 8 февраля (буфер)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Урок 6 — полный цикл (если не успел раньше)
+- [ ] Anki-повторение
+- [ ] Буфер / отдых
 
-### Friday
+### Воскресенье, 9 февраля
 
-- [ ] Task 1
-- [ ] Task 2
-
-### Weekend
-
-- [ ] Rest / Family time
-- [ ] Optional task
+- [ ] Отжимания + душ
+- [ ] Посты (2 ч)
+- [ ] Anki-повторение
+- [ ] Начать перевод старых уроков в Anki
+- [ ] Отдых вечером
 
 ---
 
@@ -81,18 +84,18 @@ updated: YYYY-MM-DD
 
 | Day | Time | Event | Prep |
 |-----|------|-------|------|
-| Mon | | | |
-| Tue | | | |
+| Чт 6 фев | — | Выход нового урока | Обработать в тот же день |
 
 ---
 
 ## Habits Tracker
 
-| Habit | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+| Habit | Пн | Вт | Ср | Чт | Пт | Сб | Вс |
 |-------|-----|-----|-----|-----|-----|-----|-----|
-| [Habit 1] | | | | | | | |
-| [Habit 2] | | | | | | | |
-| [Habit 3] | | | | | | | |
+| Anki | ❌ | ❌ | | | | | |
+| Посты | ❌ | ❌ | | | | | |
+| Уроки | ❌ | ❌ | | | | | |
+| Отжимания | — | — | — | | — | — | |
 
 ---
 
@@ -118,10 +121,10 @@ updated: YYYY-MM-DD
 
 ## Links
 
-- [[2-monthly]] - Monthly priorities
-- [[1-yearly-2025]] - Yearly goals
-- Previous: [[3-weekly-YYYY-WXX]]
+- [[2-monthly-2026-02]] - Monthly priorities
+- [[1-yearly-2026]] - Yearly goals
+- Previous: —
 
 ---
 
-*Week Started: YYYY-MM-DD*
+*Week Started: 2026-02-03*

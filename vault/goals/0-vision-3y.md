@@ -1,16 +1,15 @@
 ---
 type: vision
 horizon: 3-years
-period: 2025-2027
-updated: YYYY-MM-DD
+period: 2026-2028
+updated: 2026-02-05
 ---
 
-# Vision 2025-2027
+# Vision 2026-2028
 
 ## Life Mission
 
-<!-- Your life direction in one sentence -->
-<!-- Example: "Build meaningful technology while maintaining balance across health, relationships, and personal growth." -->
+Стать востребованным врачом-терапевтом и ревматологом с медицинскими блогами на миллион подписчиков, построить крепкую семью с женой-армянкой и жить в достатке.
 
 ---
 
@@ -19,90 +18,91 @@ updated: YYYY-MM-DD
 ### Career & Business
 
 **3-Year Vision:**
-<!-- Where do you want to be professionally in 3 years? -->
+Работаю терапевтом и ревматологом в частной клинике. В первую очередь — качественный специалист, который хорошо лечит пациентов. Как следствие — врач, к которому записываются заранее, с публикациями и выступлениями на конференциях. Веду медицинские блоги с суммарной аудиторией ~1 000 000 подписчиков.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] Июль 2026: Устроиться в частную клинику (собеседование 1 июля)
+- [ ] Осень 2026: Поступить в ординатуру по ревматологии
+- [ ] 2028: Закончить ординатуру, работать терапевтом + ревматологом
+- [ ] 2028: Достичь 1 000 000 подписчиков в блогах (TG, VK, ОК, Threads, Instagram)
 
 ---
 
 ### Health & Energy
 
 **3-Year Vision:**
-<!-- What does your ideal health look like? -->
+Хорошая физическая форма для мужчины — накаченный, на массе. Регулярные тренировки в зале.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] 2026: Установить стабильный режим тренировок 2 раза в неделю
+- [ ] 2027: Достичь целевой мышечной массы
+- [ ] 2028: Поддерживать форму, быть в лучшей физической форме в жизни
 
 ---
 
 ### Relationships & Family
 
 **3-Year Vision:**
-<!-- How do you want your relationships to evolve? -->
+Женат на армянке, крепкая семья, планируем / есть дети.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] 2026: Найти партнёра (армянку)
+- [ ] 2026–2027: Жениться
+- [ ] 2028–2029: Дети
 
 ---
 
 ### Personal Growth
 
 **3-Year Vision:**
-<!-- What skills, habits, or mindset changes do you want? -->
+Самодисциплинированный человек, который умеет систематически учиться и работать. Развитые soft skills для работы с пациентами, медицинский английский для чтения литературы и конференций, навыки научного письма для публикаций.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] 2026: Выработать самодисциплину — ответственно готовиться к собеседованию и экзаменам, не отлынивать
+- [ ] 2027: Медицинский английский на уровне чтения литературы
+- [ ] 2028: Уверенная коммуникация с пациентами, первые научные публикации
 
 ---
 
 ### Financial
 
 **3-Year Vision:**
-<!-- What does financial security look like for you? -->
+Финансовая стабильность: хватает на отпуск 3–4 раза в год, есть машина, квартира (желательно вторая), подушка безопасности и накопления.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] 2026: Стабильный доход от работы в клинике
+- [ ] 2027: Купить машину
+- [ ] 2028: Подушка безопасности + накопления, (опционально) вторая квартира
 
 ---
 
 ### Creativity & Joy
 
 **3-Year Vision:**
-<!-- What brings you joy? How will you nurture it? -->
+Баланс работы и отдыха. Время на хобби (кино, сериалы, видеоигры), путешествия с семьёй/друзьями, качественное время с близкими.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] Ежегодно: 3–4 отпуска (Испания, Дубай, Армения и другие направления)
+- [ ] Регулярно: Время на хобби без чувства вины
+- [ ] 2028: Путешествия с женой/семьёй
 
 ---
 
 ## Quarterly Review Questions
 
-1. Which goals still align with my values?
-2. What has changed that affects these goals?
-3. What am I willing to sacrifice to achieve these?
-4. Who can help me?
+1. Какие цели всё ещё соответствуют моим ценностям?
+2. Что изменилось, что влияет на эти цели?
+3. Чем я готов пожертвовать ради достижения этих целей?
+4. Кто может мне помочь?
 
 ---
 
 ## Links
 
-- [[1-yearly-2025]] - This year's goals
-- [[2-monthly]] - Current month focus
-- [[3-weekly]] - This week's plan
+- [[1-yearly-2026]] - Цели на этот год
+- [[2-monthly]] - Фокус текущего месяца
+- [[3-weekly]] - План на неделю
 
 ---
 
-*Next Review: Q1 2025*
+*Next Review: Q2 2026*

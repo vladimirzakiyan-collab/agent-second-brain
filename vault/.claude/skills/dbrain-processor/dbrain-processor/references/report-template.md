@@ -71,9 +71,11 @@ NO unsupported tags: div, span, br, p, table, tr, td
 Read from goals/3-weekly.md, find "ONE Big Thing" section.
 If not found: "Не задан — обновите goals/3-weekly.md"
 
+Current: "Закрыть отставание по урокам — 6 уроков → 0"
+
 ### Thoughts (📓)
 Count saved, list with category emoji:
-💡 idea, 🪞 reflection, 🎯 project, 📚 learning
+💡 idea, 🪞 reflection, 📚 learning
 
 ### Tasks (✅)
 Count created, list with priority and due date.
@@ -82,10 +84,12 @@ Format: • Task name <i>(p2, friday)</i>
 ### Week Load (📅)
 Call find-tasks-by-date for 7 days.
 Format: Пн: 4 | Вт: 2 | ...
+Note: Ср и Сб — дни зала, меньше задач
 
 ### Attention (⚠️)
 Show only if issues exist.
 Check overdue tasks and stale goals (7+ days no activity).
+Check Anki streak (user goal: no more than 1 day missed).
 
 ### Links (🔗)
 Show only if new links created.

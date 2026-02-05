@@ -1,76 +1,89 @@
 ---
 type: yearly
-period: 2025
-updated: YYYY-MM-DD
+period: 2026
+updated: 2026-02-05
 ---
 
-# Goals 2025
+# Goals 2026
 
 ## Annual Theme
 
-<!-- One word or phrase that defines this year -->
-<!-- Example: "Foundation", "Growth", "Balance" -->
+**Фундамент: подготовка к частной клинике**
 
 ---
 
 ## Career & Business
 
-### Goal 1: [Your Goal]
-<!-- What do you want to achieve professionally? -->
-
+### Goal 1: Устроиться в частную клинику
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Сдать экзамен по большому курсу на отлично
+- [ ] Сдать аккредитацию на 95–100 баллов
+- [ ] Пройти собеседование и устроиться (1 июля)
 
 **Quarterly Milestones:**
-- Q1: [milestone]
-- Q2: [milestone]
-- Q3: [milestone]
-- Q4: [milestone]
+- Q1: Закрыть отставание по курсу, перевести все уроки в Anki
+- Q2: Сдать экзамен, сдать аккредитацию, пройти собеседование
+- Q3: Начать работу в клинике
+- Q4: Адаптация, закрепиться в клинике
+
+### Goal 2: Поступить в ординатуру по ревматологии
+**Success Metrics:**
+- [ ] Поступить с первой попытки (осень 2026)
+
+### Goal 3: Закончить дополнительные курсы
+**Success Metrics:**
+- [ ] Курс антибиотикотерапии — завершён
+- [ ] Курс амбулаторной терапии — завершён
+
+### Goal 4: Развитие блога
+**Success Metrics:**
+- [ ] 10 000 подписчиков в Telegram до зимы (минимум)
+- [ ] 50 000 подписчиков в Telegram до зимы (идеал)
 
 ---
 
 ## Health & Energy
 
-### Goal 1: [Your Goal]
-<!-- What health habits do you want to build? -->
-
+### Goal 1: Накачаться
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Жим лёжа 100 кг (сейчас 40 кг)
+- [ ] Регулярные тренировки 2 раза в неделю
 
 ---
 
 ## Relationships
 
-### Goal 1: [Your Goal]
-<!-- How do you want to improve your relationships? -->
-
+### Goal 1: Найти партнёра
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Найти девушку-армянку, начать серьёзные отношения
+- [ ] (Идеал) Сделать предложение
+- [ ] (Идеал) Жениться в 2026
 
 ---
 
 ## Personal Growth
 
-### Goal 1: [Your Goal]
-<!-- What skills or habits do you want to develop? -->
-
+### Goal 1: Выработать самодисциплину
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Выполнять дневной план минимум 5 из 7 дней (идеал — ежедневно)
+- [ ] Не пропускать Anki более 1 дня подряд за весь год
+- [ ] Сдать экзамен, аккредитацию и собеседование с первой попытки
+- [ ] Вести ежедневные отчёты минимум 6 месяцев подряд
 
 ---
 
 ## Financial
 
-### Goal 1: [Your Goal]
-<!-- What financial milestones do you want to reach? -->
-
+### Goal 1: Стабильный доход
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Доход 200–300к в месяц к концу года
+- [ ] Источники: работа в клинике + онлайн-консультации + реклама
+
+---
+
+## Creativity & Joy
+
+Не приоритет на 2026 год. Отдых по желанию — кино, сериалы, видеоигры, путешествия.
 
 ---
 
@@ -78,11 +91,14 @@ updated: YYYY-MM-DD
 
 | Area | Goal | Progress | Status |
 |------|------|----------|--------|
-| Career | [goal] | 0% | --- |
-| Health | [goal] | 0% | --- |
-| Relationships | [goal] | 0% | --- |
-| Growth | [goal] | 0% | --- |
-| Financial | [goal] | 0% | --- |
+| Career | Устроиться в клинику | 0% | В процессе |
+| Career | Поступить в ординатуру | 0% | Ожидание |
+| Career | Курсы АБТ + амбулат. | 0% | Не начато |
+| Career | Блог 10к–50к | ~10% | ~10к сейчас |
+| Health | Жим 100 кг | 40% | 40 кг сейчас |
+| Relationships | Найти партнёра | 0% | Поиск |
+| Growth | Самодисциплина | 0% | В процессе |
+| Financial | 200–300к/мес | 0% | Ожидание |
 
 ---
 
@@ -90,18 +106,27 @@ updated: YYYY-MM-DD
 
 | Month | Key Wins | Adjustments |
 |-------|----------|-------------|
-| Jan | | |
-| Feb | | |
+| Jan | — | — |
+| Feb | Начало подготовки к собесу | Закрыть долг Anki |
 | Mar | | |
+| Apr | | |
+| May | | |
+| Jun | | |
+| Jul | | |
+| Aug | | |
+| Sep | | |
+| Oct | | |
+| Nov | | |
+| Dec | | |
 
 ---
 
 ## Links
 
-- [[0-vision-3y]] - 3-year vision
+- [[0-vision-3y]] - 3-year vision (2026–2028)
 - [[2-monthly]] - Current month focus
 - [[3-weekly]] - This week's plan
 
 ---
 
-*Next Review: End of January*
+*Next Review: End of February 2026*

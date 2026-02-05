@@ -17,8 +17,8 @@ Grep "keyword2" in thoughts/**/*.md
 
 Keywords to search:
 - Main topic of the thought
-- Key entities (people, projects, technologies)
-- Domain terms
+- Key entities (medications, conditions, techniques)
+- Domain terms (терапия, АБТ, ревматология)
 
 ### Step 2: Check MOC Indexes
 
@@ -27,7 +27,6 @@ Read relevant MOC files:
 ```
 MOC/
 ├── MOC-ideas.md
-├── MOC-projects.md
 ├── MOC-learnings.md
 └── MOC-reflections.md
 ```
@@ -39,7 +38,7 @@ Find related entries.
 Check if thought relates to goals:
 
 ```
-Read goals/1-yearly-2025.md
+Read goals/1-yearly-2026.md
 Find matching goal areas
 ```
 
@@ -50,20 +49,19 @@ In the thought file, add:
 **In frontmatter:**
 ```yaml
 related:
-  - "[[thoughts/ideas/2024-12-15-voice-agents.md]]"
-  - "[[goals/1-yearly-2025#AI Development]]"
+  - "[[thoughts/learnings/2026-02-05-abt-dosage.md]]"
+  - "[[goals/1-yearly-2026#Career & Business]]"
 ```
 
 **In content (inline):**
 ```markdown
-This connects to [[Voice Agents Architecture]] we explored earlier.
+This connects to [[АБТ дозировки]] we learned earlier.
 ```
 
 **In Related section:**
 ```markdown
 ## Related
 - [[Previous related thought]]
-- [[Project this belongs to]]
 - [[Goal this supports]]
 ```
 
@@ -72,15 +70,17 @@ This connects to [[Voice Agents Architecture]] we explored earlier.
 Add new note to appropriate MOC:
 
 ```markdown
-# MOC: Ideas
+# MOC: Learnings
 
 ## Recent
-- [[thoughts/ideas/2024-12-20-new-idea.md]] — Brief description
+- [[thoughts/learnings/2026-02-05-new-learning.md]] — Brief description
 
 ## By Topic
-### AI & Voice
-- [[thoughts/ideas/2024-12-20-new-idea.md]]
-- [[thoughts/ideas/2024-12-15-voice-agents.md]]
+### Терапия
+- [[thoughts/learnings/2026-02-05-abt-dosage.md]]
+
+### Ревматология
+- [[thoughts/learnings/2026-02-05-ra-treatment.md]]
 ```
 
 ### Step 6: Add Backlinks
@@ -99,7 +99,7 @@ In related notes, add backlink to new note if highly relevant.
 
 ### Link to Goals
 ```markdown
-[[goals/1-yearly-2025#Career & Business]]
+[[goals/1-yearly-2026#Career & Business]]
 [[goals/3-weekly]] — ONE Big Thing
 ```
 
@@ -110,41 +110,40 @@ Track new links created:
 ```
 <b>🔗 Новые связи:</b>
 • [[Note A]] ↔ [[Note B]]
-• [[New Thought]] → [[Related Project]]
+• [[New Thought]] → [[Related Learning]]
 ```
 
 ## Example Workflow
 
-<!-- Это пример — замените на свои реальные темы -->
-New thought: "Новый инструмент X можно использовать для проекта Y"
+New thought: "Узнал про новую схему АБТ при пневмонии"
 
 1. **Search:**
-   - Grep "keyword" in thoughts/ → finds related notes
-   - Grep "tool" in thoughts/ → no results
+   - Grep "АБТ" in thoughts/ → finds related notes
+   - Grep "пневмония" in thoughts/ → no results
 
 2. **Check MOC:**
-   - MOC-learnings.md has relevant section
+   - MOC-learnings.md has "Терапия" section
 
 3. **Goals:**
-   - 1-yearly-2025.md has matching goal
+   - 1-yearly-2026.md has "Устроиться в частную клинику" goal
 
 4. **Create links:**
    ```yaml
    related:
-     - "[[thoughts/ideas/related-note.md]]"
-     - "[[goals/1-yearly-2025#Your Goal]]"
+     - "[[thoughts/learnings/2026-01-15-abt-basics.md]]"
+     - "[[goals/1-yearly-2026#Career & Business]]"
    ```
 
 5. **Update MOC-learnings.md:**
    ```markdown
-   ### Your Category
-   - [[thoughts/learnings/2024-12-20-new-learning.md]] — Description
+   ### Терапия
+   - [[thoughts/learnings/2026-02-05-abt-pneumonia.md]] — Схема АБТ при пневмонии
    ```
 
 6. **Report:**
    ```
    <b>🔗 Новые связи:</b>
-   • [[New Note]] ↔ [[Related Note]]
+   • [[АБТ при пневмонии]] ↔ [[Основы АБТ]]
    ```
 
 ## Orphan Detection

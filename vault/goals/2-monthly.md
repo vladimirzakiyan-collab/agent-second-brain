@@ -1,59 +1,56 @@
 ---
 type: monthly
-period: YYYY-MM
-updated: YYYY-MM-DD
+period: 2026-02
+updated: 2026-02-05
 ---
 
-# Monthly Focus
+# Monthly Focus — Февраль 2026
 
 ## Top 3 Priorities
 
-### Priority 1: [Your Top Priority]
-<!-- What MUST happen this month? -->
+### Priority 1: Закрыть отставание и догнать курс
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:** Экзамен по большому курсу в марте. Без этого — не сдать на отлично.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Закрыть 5 уроков отставания (полный цикл)
+- [ ] Перевести 62 старых урока в Anki
+- [ ] Не отставать от новых уроков (6, 9, 12, 15, 18, 20, 21, 24, 27 февраля)
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:** К 1 марта — отставание 0, все старые уроки в Anki, новые уроки обработаны в день выхода или на следующий день.
 
 ---
 
-### Priority 2: [Second Priority]
+### Priority 2: Anki без пропусков
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:** Самодисциплина — главная цель личностного роста на 2026. Anki — ежедневная практика дисциплины.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] С 5 февраля — ни одного пропущенного дня
+- [ ] 23 дня подряд до конца февраля
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:** 28 февраля — ни одного пропуска Anki с 5 февраля.
 
 ---
 
-### Priority 3: [Third Priority]
+### Priority 3: Посты каждый день
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:** Цель — 10к–50к подписчиков в ТГ к зиме. Регулярность = рост аудитории.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] 2 часа на посты каждое утро
+- [ ] Не пропускать ни одного дня
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:** 28 февраля — посты опубликованы каждый день месяца.
 
 ---
 
 ## NOT Doing This Month
 
-<!-- What are you consciously saying NO to? -->
--
--
--
+- ❌ Свидания / поиск партнёра — фокус на учёбе
+- ❌ Видеоигры — только кино/сериалы вечером
+- ❌ Кино и сериалы днём — только после выполнения плана, вечером
+- ❌ Новые проекты — только текущие задачи
 
 ---
 
@@ -61,10 +58,10 @@ updated: YYYY-MM-DD
 
 | Week | Progress | Blockers | Adjustments |
 |------|----------|----------|-------------|
-| W1 | | | |
-| W2 | | | |
-| W3 | | | |
-| W4 | | | |
+| W1 (3–9 фев) | | | |
+| W2 (10–16 фев) | | | |
+| W3 (17–23 фев) | | | |
+| W4 (24–28 фев) | | | |
 
 ---
 
@@ -86,10 +83,10 @@ updated: YYYY-MM-DD
 
 ## Links
 
-- [[0-vision-3y]] - 3-year vision
-- [[1-yearly-2025]] - Annual goals
+- [[0-vision-3y]] - 3-year vision (2026–2028)
+- [[1-yearly-2026]] - Annual goals
 - [[3-weekly]] - This week's plan
 
 ---
 
-*Next Review: End of month*
+*Next Review: 28 февраля 2026*
